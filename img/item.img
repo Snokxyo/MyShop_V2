@@ -1,0 +1,7 @@
+.contacts img, .item img {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    margin: 20px 0 30px;
+    min-height: 200px;
+}
